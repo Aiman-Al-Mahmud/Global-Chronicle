@@ -1,0 +1,37 @@
+/* Custom Authentication Styles for Navbar */
+.navbar-nav > li > a i {
+    margin-right: 5px;
+}
+
+.navbar .dropdown-menu li a i {
+    margin-right: 8px;
+}
+
+/* Improve logout form display */
+#logout-form {
+    display: none !important;
+}
+
+/* User dropdown styling */
+.navbar-nav .dropdown-menu {
+    min-width: 180px;
+}
+
+.navbar-nav .dropdown-menu li a {
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+}
+
+.navbar-nav .dropdown-menu li a:hover {
+    background-color: #f5f5f5;
+    padding-left: 25px;
+}
+
+/* Authentication button styling */
+.navbar-nav > li > a {
+    transition: all 0.3s ease;
+}
+
+.navbar-nav > li > a:hover {
+    opacity: 0.8;
+}
