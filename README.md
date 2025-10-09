@@ -1,6 +1,6 @@
-# Global Chronicle — Open Source Newspaper Portal Website 📰
+# Global Chronicle — Open Source Newspaper Portal Website 
 
-![Logo](https://via.placeholder.com/400x120?text=Global+Chronicle+Logo)
+
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 [![Built with Laravel](https://img.shields.io/badge/Laravel-10%2B-red?logo=laravel&logoColor=white)](https://laravel.com)
@@ -311,7 +311,6 @@ If you use this project for a public demo or deployment, please link back or dro
 
 ---
 
-## SEO & Keywords
 
 This repository is an open source news portal built with Laravel — ideal as a Laravel news CMS and modern newspaper website. If you're searching for a robust news portal, news portal CMS, or an open source news portal example maintained by a Bangladesh developer, Global Chronicle is a production-ready starting point.
 
